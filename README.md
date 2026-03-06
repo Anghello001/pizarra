@@ -1,1 +1,1 @@
-version 1.1 latest
+version 1.1 latest.
